@@ -1,9 +1,0 @@
-//
-// Created by 董子禛 on 2022/10/10.
-//
-
-#ifndef PJ1HANDIN22302010054_MAIN_H
-#define PJ1HANDIN22302010054_MAIN_H
-
-
-#endif //PJ1HANDIN22302010054_MAIN_H
